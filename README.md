@@ -1,2 +1,3 @@
-# gyk-ai
- Turkcell Geleceği Yazan Kadınlar Yapay Zeka Programı
+# Turkcell Women Writing the Future Artificial Intelligence Programme
+
+
